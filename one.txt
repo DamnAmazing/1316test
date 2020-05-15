@@ -2,3 +2,4 @@ var x = 300;
 console.log(200);
 console.log(x);
 console.log(300);
+console.log(400);
